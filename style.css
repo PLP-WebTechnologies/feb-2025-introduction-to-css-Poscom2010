@@ -1,0 +1,25 @@
+
+.border{
+    border: 10px solid hotpink;
+    width: 600px;
+    margin: 20px;
+    background-color: 
+}
+
+
+img{
+    height: 500px;
+    width: 300pxpx;
+    padding: 100px;
+    object-fit: contain;
+}
+
+#heading2{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: grey;
+    width: 600px;
+}
